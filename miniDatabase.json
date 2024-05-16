@@ -1,0 +1,5102 @@
+[
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-09"
+            },
+            {
+                "Surprise %": 1.031
+            },
+            {
+                "Actual": 1.26
+            },
+            {
+                "Mean": 1.22231
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.22
+            },
+            {
+                "High": 1.3
+            },
+            {
+                "Low": 1.13
+            },
+            {
+                "Standard Deviation": 0.03745
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.00641
+            },
+            {
+                "Number of Estimates": 13
+            },
+            {
+                "YoY Growth %": 0
+            },
+            {
+                "YoY Growth": 0
+            }
+        ],
+        0.00058651026392964
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-09"
+            },
+            {
+                "Surprise %": 1.031
+            },
+            {
+                "Actual": 1.15
+            },
+            {
+                "Mean": 1.11588
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.11
+            },
+            {
+                "High": 1.14
+            },
+            {
+                "Low": 1.09
+            },
+            {
+                "Standard Deviation": 0.01417
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.4079
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": -0.0254237288135594
+            },
+            {
+                "YoY Growth": -0.03
+            }
+        ],
+        0.0254677754677754
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-09"
+            },
+            {
+                "Surprise %": 1.059
+            },
+            {
+                "Actual": 1.2
+            },
+            {
+                "Mean": 1.13294
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.13
+            },
+            {
+                "High": 1.17
+            },
+            {
+                "Low": 1.1
+            },
+            {
+                "Standard Deviation": 0.02295
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.922
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0256410256410257
+            },
+            {
+                "YoY Growth": 0.03
+            }
+        ],
+        -0.0355029585798816
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-09"
+            },
+            {
+                "Surprise %": 1.047
+            },
+            {
+                "Actual": 1.02
+            },
+            {
+                "Mean": 0.97375
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.97
+            },
+            {
+                "High": 0.99
+            },
+            {
+                "Low": 0.95
+            },
+            {
+                "Standard Deviation": 0.01269
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.6446
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0851063829787235
+            },
+            {
+                "YoY Growth": 0.08
+            }
+        ],
+        0.00648528946535912
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-09"
+            },
+            {
+                "Surprise %": 1.011
+            },
+            {
+                "Actual": 4.63
+            },
+            {
+                "Mean": 4.57947
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.58
+            },
+            {
+                "High": 4.61
+            },
+            {
+                "Low": 4.56
+            },
+            {
+                "Standard Deviation": 0.01191
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.24265
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.0175824175824176
+            },
+            {
+                "YoY Growth": 0.08
+            }
+        ],
+        0.00648528946535912
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-10"
+            },
+            {
+                "Surprise %": 1.013
+            },
+            {
+                "Actual": 1.29
+            },
+            {
+                "Mean": 1.27353
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.27
+            },
+            {
+                "High": 1.33
+            },
+            {
+                "Low": 1.23
+            },
+            {
+                "Standard Deviation": 0.02656
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.62011
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0238095238095238
+            },
+            {
+                "YoY Growth": 0.03
+            }
+        ],
+        -0.0213539300318037
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-10"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 1.21
+            },
+            {
+                "Mean": 1.2075
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.21
+            },
+            {
+                "High": 1.25
+            },
+            {
+                "Low": 1.17
+            },
+            {
+                "Standard Deviation": 0.0225
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.11111
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0521739130434783
+            },
+            {
+                "YoY Growth": 0.06
+            }
+        ],
+        -0.0292093335571597
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-10"
+            },
+            {
+                "Surprise %": 1.071
+            },
+            {
+                "Actual": 1.23
+            },
+            {
+                "Mean": 1.14889
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.15
+            },
+            {
+                "High": 1.17
+            },
+            {
+                "Low": 1.1
+            },
+            {
+                "Standard Deviation": 0.01822
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.4517
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.025
+            },
+            {
+                "YoY Growth": 0.03
+            }
+        ],
+        -0.00454118383964922
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-10"
+            },
+            {
+                "Surprise %": 1.004
+            },
+            {
+                "Actual": 1.03
+            },
+            {
+                "Mean": 1.02625
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.02
+            },
+            {
+                "High": 1.07
+            },
+            {
+                "Low": 0.99
+            },
+            {
+                "Standard Deviation": 0.01965
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.19089
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.00980392156862746
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        -0.0257152041144327
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-10"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 4.76
+            },
+            {
+                "Mean": 4.75238
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.75
+            },
+            {
+                "High": 4.8
+            },
+            {
+                "Low": 4.7
+            },
+            {
+                "Standard Deviation": 0.02045
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.3726
+            },
+            {
+                "Number of Estimates": 21
+            },
+            {
+                "YoY Growth %": 0.0280777537796976
+            },
+            {
+                "YoY Growth": 0.13
+            }
+        ],
+        -0.0257152041144327
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-11"
+            },
+            {
+                "Surprise %": 1.07
+            },
+            {
+                "Actual": 1.35
+            },
+            {
+                "Mean": 1.26125
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.26
+            },
+            {
+                "High": 1.31
+            },
+            {
+                "Low": 1.23
+            },
+            {
+                "Standard Deviation": 0.02472
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.59021
+            },
+            {
+                "Number of Estimates": 8
+            },
+            {
+                "YoY Growth %": 0.0465116279069768
+            },
+            {
+                "YoY Growth": 0.06
+            }
+        ],
+        0.0813761164406218
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-11"
+            },
+            {
+                "Surprise %": 1.031
+            },
+            {
+                "Actual": 1.28
+            },
+            {
+                "Mean": 1.24211
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.24
+            },
+            {
+                "High": 1.31
+            },
+            {
+                "Low": 1.19
+            },
+            {
+                "Standard Deviation": 0.02607
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.4534
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.0578512396694215
+            },
+            {
+                "YoY Growth": 0.07
+            }
+        ],
+        -0.0277239528990908
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-11"
+            },
+            {
+                "Surprise %": 1.026
+            },
+            {
+                "Actual": 1.24
+            },
+            {
+                "Mean": 1.20824
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.21
+            },
+            {
+                "High": 1.24
+            },
+            {
+                "Low": 1.16
+            },
+            {
+                "Standard Deviation": 0.01917
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.65676
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.00813008130081302
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        0.0109735068192506
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-11"
+            },
+            {
+                "Surprise %": 1.034
+            },
+            {
+                "Actual": 1.13
+            },
+            {
+                "Mean": 1.09316
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.1
+            },
+            {
+                "High": 1.12
+            },
+            {
+                "Low": 1.04
+            },
+            {
+                "Standard Deviation": 0.02429
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.51667
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.0970873786407766
+            },
+            {
+                "YoY Growth": 0.1
+            }
+        ],
+        0.0106153846153846
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-11"
+            },
+            {
+                "Surprise %": 1.008
+            },
+            {
+                "Actual": 5
+            },
+            {
+                "Mean": 4.96042
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.97
+            },
+            {
+                "High": 4.99
+            },
+            {
+                "Low": 4.91
+            },
+            {
+                "Standard Deviation": 0.02051
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.92979
+            },
+            {
+                "Number of Estimates": 24
+            },
+            {
+                "YoY Growth %": 0.0504201680672269
+            },
+            {
+                "YoY Growth": 0.24
+            }
+        ],
+        0.0106153846153846
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-12"
+            },
+            {
+                "Surprise %": 1.012
+            },
+            {
+                "Actual": 1.37
+            },
+            {
+                "Mean": 1.35313
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.35
+            },
+            {
+                "High": 1.45
+            },
+            {
+                "Low": 1.27
+            },
+            {
+                "Standard Deviation": 0.04253
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.39666
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0148148148148148
+            },
+            {
+                "YoY Growth": 0.02
+            }
+        ],
+        0.00703344795248531
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-12"
+            },
+            {
+                "Surprise %": 1.007
+            },
+            {
+                "Actual": 1.3
+            },
+            {
+                "Mean": 1.29048
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.29
+            },
+            {
+                "High": 1.33
+            },
+            {
+                "Low": 1.25
+            },
+            {
+                "Standard Deviation": 0.01889
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.50397
+            },
+            {
+                "Number of Estimates": 21
+            },
+            {
+                "YoY Growth %": 0.015625
+            },
+            {
+                "YoY Growth": 0.02
+            }
+        ],
+        -0.0134404674945216
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-12"
+            },
+            {
+                "Surprise %": 1.032
+            },
+            {
+                "Actual": 1.25
+            },
+            {
+                "Mean": 1.21167
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.22
+            },
+            {
+                "High": 1.29
+            },
+            {
+                "Low": 1.15
+            },
+            {
+                "Standard Deviation": 0.03253
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.1783
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.00806451612903226
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        0.0311953352769679
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-12"
+            },
+            {
+                "Surprise %": 1.018
+            },
+            {
+                "Actual": 1.19
+            },
+            {
+                "Mean": 1.1685
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.17
+            },
+            {
+                "High": 1.23
+            },
+            {
+                "Low": 1.13
+            },
+            {
+                "Standard Deviation": 0.02056
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.04572
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0530973451327434
+            },
+            {
+                "YoY Growth": 0.06
+            }
+        ],
+        0.0117438208384542
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-12"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 5.1
+            },
+            {
+                "Mean": 5.08826
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 5.09
+            },
+            {
+                "High": 5.15
+            },
+            {
+                "Low": 5.05
+            },
+            {
+                "Standard Deviation": 0.02119
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.55404
+            },
+            {
+                "Number of Estimates": 23
+            },
+            {
+                "YoY Growth %": 0.0199999999999999
+            },
+            {
+                "YoY Growth": 0.1
+            }
+        ],
+        0.0117438208384542
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-13"
+            },
+            {
+                "Surprise %": 1.029
+            },
+            {
+                "Actual": 1.44
+            },
+            {
+                "Mean": 1.4
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.4
+            },
+            {
+                "High": 1.51
+            },
+            {
+                "Low": 1.33
+            },
+            {
+                "Standard Deviation": 0.04243
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.94273
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.0510948905109488
+            },
+            {
+                "YoY Growth": 0.07
+            }
+        ],
+        0.0327989230204382
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-13"
+            },
+            {
+                "Surprise %": 1.063
+            },
+            {
+                "Actual": 1.48
+            },
+            {
+                "Mean": 1.392
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.39
+            },
+            {
+                "High": 1.46
+            },
+            {
+                "Low": 1.33
+            },
+            {
+                "Standard Deviation": 0.02619
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.36006
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.138461538461538
+            },
+            {
+                "YoY Growth": 0.18
+            }
+        ],
+        0.0216814159292035
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-13"
+            },
+            {
+                "Surprise %": 1.028
+            },
+            {
+                "Actual": 1.36
+            },
+            {
+                "Mean": 1.32324
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.32
+            },
+            {
+                "High": 1.37
+            },
+            {
+                "Low": 1.3
+            },
+            {
+                "Standard Deviation": 0.01671
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.19988
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0880000000000001
+            },
+            {
+                "YoY Growth": 0.11
+            }
+        ],
+        0.0256124721603563
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-13"
+            },
+            {
+                "Surprise %": 1.033
+            },
+            {
+                "Actual": 1.24
+            },
+            {
+                "Mean": 1.20088
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.2
+            },
+            {
+                "High": 1.22
+            },
+            {
+                "Low": 1.19
+            },
+            {
+                "Standard Deviation": 0.00974
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.01643
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0420168067226891
+            },
+            {
+                "YoY Growth": 0.05
+            }
+        ],
+        -0.06480117820324
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-13"
+            },
+            {
+                "Surprise %": 1.008
+            },
+            {
+                "Actual": 5.52
+            },
+            {
+                "Mean": 5.47714
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 5.48
+            },
+            {
+                "High": 5.51
+            },
+            {
+                "Low": 5.44
+            },
+            {
+                "Standard Deviation": 0.01647
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.60231
+            },
+            {
+                "Number of Estimates": 22
+            },
+            {
+                "YoY Growth %": 0.0823529411764706
+            },
+            {
+                "YoY Growth": 0.42
+            }
+        ],
+        -0.06480117820324
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-14"
+            },
+            {
+                "Surprise %": 1.043
+            },
+            {
+                "Actual": 1.54
+            },
+            {
+                "Mean": 1.47669
+            },
+            {
+                "SmartEstimate\u00ae": 1.48215
+            },
+            {
+                "Predicted Surprise": 0.00546
+            },
+            {
+                "Predicted Surprise %": 0.0037
+            },
+            {
+                "Median": 1.48
+            },
+            {
+                "High": 1.52
+            },
+            {
+                "Low": 1.41
+            },
+            {
+                "Standard Deviation": 0.02893
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.18839
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0694444444444445
+            },
+            {
+                "YoY Growth": 0.1
+            }
+        ],
+        0.0290302655960469
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-14"
+            },
+            {
+                "Surprise %": 1.072
+            },
+            {
+                "Actual": 1.66
+            },
+            {
+                "Mean": 1.5485
+            },
+            {
+                "SmartEstimate\u00ae": 1.56185
+            },
+            {
+                "Predicted Surprise": 0.0121
+            },
+            {
+                "Predicted Surprise %": 0.00781
+            },
+            {
+                "Median": 1.555
+            },
+            {
+                "High": 1.61
+            },
+            {
+                "Low": 1.45
+            },
+            {
+                "Standard Deviation": 0.03505
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.18117
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.121621621621622
+            },
+            {
+                "YoY Growth": 0.18
+            }
+        ],
+        -0.0302713987473904
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-14"
+            },
+            {
+                "Surprise %": 1.038
+            },
+            {
+                "Actual": 1.5
+            },
+            {
+                "Mean": 1.44513
+            },
+            {
+                "SmartEstimate\u00ae": 1.45207
+            },
+            {
+                "Predicted Surprise": 0.00694
+            },
+            {
+                "Predicted Surprise %": 0.0048
+            },
+            {
+                "Median": 1.44
+            },
+            {
+                "High": 1.49
+            },
+            {
+                "Low": 1.42
+            },
+            {
+                "Standard Deviation": 0.02202
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.49183
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.102941176470588
+            },
+            {
+                "YoY Growth": 0.14
+            }
+        ],
+        0.021186440677966
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-14"
+            },
+            {
+                "Surprise %": 1.012
+            },
+            {
+                "Actual": 1.27
+            },
+            {
+                "Mean": 1.25512
+            },
+            {
+                "SmartEstimate\u00ae": 1.2596
+            },
+            {
+                "Predicted Surprise": 0.00448
+            },
+            {
+                "Predicted Surprise %": 0.00357
+            },
+            {
+                "Median": 1.25
+            },
+            {
+                "High": 1.33
+            },
+            {
+                "Low": 1.21
+            },
+            {
+                "Standard Deviation": 0.03066
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.48535
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0241935483870968
+            },
+            {
+                "YoY Growth": 0.03
+            }
+        ],
+        -0.0246059207996924
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-14"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 5.97
+            },
+            {
+                "Mean": 5.95705
+            },
+            {
+                "SmartEstimate\u00ae": 5.96721
+            },
+            {
+                "Predicted Surprise": 0.01016
+            },
+            {
+                "Predicted Surprise %": 0.00171
+            },
+            {
+                "Median": 5.95
+            },
+            {
+                "High": 6.03
+            },
+            {
+                "Low": 5.91
+            },
+            {
+                "Standard Deviation": 0.03362
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.38522
+            },
+            {
+                "Number of Estimates": 21
+            },
+            {
+                "YoY Growth %": 0.0815217391304348
+            },
+            {
+                "YoY Growth": 0.45
+            }
+        ],
+        -0.0246059207996924
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-15"
+            },
+            {
+                "Surprise %": 1.013
+            },
+            {
+                "Actual": 1.56
+            },
+            {
+                "Mean": 1.54
+            },
+            {
+                "SmartEstimate\u00ae": 1.5408
+            },
+            {
+                "Predicted Surprise": 0.0008
+            },
+            {
+                "Predicted Surprise %": 0.00052
+            },
+            {
+                "Median": 1.53
+            },
+            {
+                "High": 1.61
+            },
+            {
+                "Low": 1.46
+            },
+            {
+                "Standard Deviation": 0.03723
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.53727
+            },
+            {
+                "Number of Estimates": 14
+            },
+            {
+                "YoY Growth %": 0.012987012987013
+            },
+            {
+                "YoY Growth": 0.02
+            }
+        ],
+        -0.00119343610144197
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-15"
+            },
+            {
+                "Surprise %": 1.024
+            },
+            {
+                "Actual": 1.71
+            },
+            {
+                "Mean": 1.6706
+            },
+            {
+                "SmartEstimate\u00ae": 1.66776
+            },
+            {
+                "Predicted Surprise": -0.00284
+            },
+            {
+                "Predicted Surprise %": -0.0017
+            },
+            {
+                "Median": 1.68
+            },
+            {
+                "High": 1.75
+            },
+            {
+                "Low": 1.54
+            },
+            {
+                "Standard Deviation": 0.05534
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.71198
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.0301204819277109
+            },
+            {
+                "YoY Growth": 0.05
+            }
+        ],
+        -0.00089757654333289
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-15"
+            },
+            {
+                "Surprise %": 1.026
+            },
+            {
+                "Actual": 1.49
+            },
+            {
+                "Mean": 1.45167
+            },
+            {
+                "SmartEstimate\u00ae": 1.46123
+            },
+            {
+                "Predicted Surprise": 0.00956
+            },
+            {
+                "Predicted Surprise %": 0.00659
+            },
+            {
+                "Median": 1.455
+            },
+            {
+                "High": 1.52
+            },
+            {
+                "Low": 1.38
+            },
+            {
+                "Standard Deviation": 0.0379
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.01154
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": -0.00666666666666667
+            },
+            {
+                "YoY Growth": -0.01
+            }
+        ],
+        0.0170851130326076
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-15"
+            },
+            {
+                "Surprise %": 1.015
+            },
+            {
+                "Actual": 1.44
+            },
+            {
+                "Mean": 1.41905
+            },
+            {
+                "SmartEstimate\u00ae": 1.41729
+            },
+            {
+                "Predicted Surprise": -0.00176
+            },
+            {
+                "Predicted Surprise %": -0.00124
+            },
+            {
+                "Median": 1.42
+            },
+            {
+                "High": 1.44
+            },
+            {
+                "Low": 1.39
+            },
+            {
+                "Standard Deviation": 0.01379
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.51928
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.133858267716535
+            },
+            {
+                "YoY Growth": 0.17
+            }
+        ],
+        0.0802904564315352
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-15"
+            },
+            {
+                "Surprise %": 1.003
+            },
+            {
+                "Actual": 6.2
+            },
+            {
+                "Mean": 6.18015
+            },
+            {
+                "SmartEstimate\u00ae": 6.17917
+            },
+            {
+                "Predicted Surprise": -0.00099
+            },
+            {
+                "Predicted Surprise %": -0.00016
+            },
+            {
+                "Median": 6.18
+            },
+            {
+                "High": 6.2
+            },
+            {
+                "Low": 6.15
+            },
+            {
+                "Standard Deviation": 0.01278
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.55274
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0385259631490788
+            },
+            {
+                "YoY Growth": 0.23
+            }
+        ],
+        0.0802904564315352
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-16"
+            },
+            {
+                "Surprise %": 1.02
+            },
+            {
+                "Actual": 1.68
+            },
+            {
+                "Mean": 1.64635
+            },
+            {
+                "SmartEstimate\u00ae": 1.65669
+            },
+            {
+                "Predicted Surprise": 0.01034
+            },
+            {
+                "Predicted Surprise %": 0.00628
+            },
+            {
+                "Median": 1.65
+            },
+            {
+                "High": 1.74
+            },
+            {
+                "Low": 1.56
+            },
+            {
+                "Standard Deviation": 0.04639
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.72537
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0769230769230769
+            },
+            {
+                "YoY Growth": 0.12
+            }
+        ],
+        0.0165870368700982
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-16"
+            },
+            {
+                "Surprise %": 1.036
+            },
+            {
+                "Actual": 1.74
+            },
+            {
+                "Mean": 1.6803
+            },
+            {
+                "SmartEstimate\u00ae": 1.68516
+            },
+            {
+                "Predicted Surprise": 0.00486
+            },
+            {
+                "Predicted Surprise %": 0.00289
+            },
+            {
+                "Median": 1.69
+            },
+            {
+                "High": 1.71
+            },
+            {
+                "Low": 1.63
+            },
+            {
+                "Standard Deviation": 0.02481
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.40595
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0175438596491228
+            },
+            {
+                "YoY Growth": 0.03
+            }
+        ],
+        0.0132369660548968
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-16"
+            },
+            {
+                "Surprise %": 1.014
+            },
+            {
+                "Actual": 1.68
+            },
+            {
+                "Mean": 1.657
+            },
+            {
+                "SmartEstimate\u00ae": 1.66746
+            },
+            {
+                "Predicted Surprise": 0.01046
+            },
+            {
+                "Predicted Surprise %": 0.00632
+            },
+            {
+                "Median": 1.65
+            },
+            {
+                "High": 1.75
+            },
+            {
+                "Low": 1.59
+            },
+            {
+                "Standard Deviation": 0.0373
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.61662
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.12751677852349
+            },
+            {
+                "YoY Growth": 0.19
+            }
+        ],
+        -0.0331673558950122
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-16"
+            },
+            {
+                "Surprise %": 1.01
+            },
+            {
+                "Actual": 1.58
+            },
+            {
+                "Mean": 1.5641
+            },
+            {
+                "SmartEstimate\u00ae": 1.5557
+            },
+            {
+                "Predicted Surprise": -0.0084
+            },
+            {
+                "Predicted Surprise %": -0.00537
+            },
+            {
+                "Median": 1.556
+            },
+            {
+                "High": 1.62
+            },
+            {
+                "Low": 1.54
+            },
+            {
+                "Standard Deviation": 0.02473
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.64294
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0972222222222223
+            },
+            {
+                "YoY Growth": 0.14
+            }
+        ],
+        -0.00596962514265642
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-16"
+            },
+            {
+                "Surprise %": 1.003
+            },
+            {
+                "Actual": 6.73
+            },
+            {
+                "Mean": 6.7116
+            },
+            {
+                "SmartEstimate\u00ae": 6.71004
+            },
+            {
+                "Predicted Surprise": -0.00157
+            },
+            {
+                "Predicted Surprise %": -0.00023
+            },
+            {
+                "Median": 6.71
+            },
+            {
+                "High": 6.77
+            },
+            {
+                "Low": 6.67
+            },
+            {
+                "Standard Deviation": 0.02393
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.76891
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.085483870967742
+            },
+            {
+                "YoY Growth": 0.53
+            }
+        ],
+        -0.00596962514265642
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-17"
+            },
+            {
+                "Surprise %": 1.033
+            },
+            {
+                "Actual": 1.83
+            },
+            {
+                "Mean": 1.77228
+            },
+            {
+                "SmartEstimate\u00ae": 1.76032
+            },
+            {
+                "Predicted Surprise": -0.01196
+            },
+            {
+                "Predicted Surprise %": -0.00675
+            },
+            {
+                "Median": 1.77
+            },
+            {
+                "High": 1.841
+            },
+            {
+                "Low": 1.71
+            },
+            {
+                "Standard Deviation": 0.03484
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.65683
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.0892857142857144
+            },
+            {
+                "YoY Growth": 0.15
+            }
+        ],
+        -0.0175787464206172
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-17"
+            },
+            {
+                "Surprise %": 1.019
+            },
+            {
+                "Actual": 1.83
+            },
+            {
+                "Mean": 1.79526
+            },
+            {
+                "SmartEstimate\u00ae": 1.80045
+            },
+            {
+                "Predicted Surprise": 0.00519
+            },
+            {
+                "Predicted Surprise %": 0.00289
+            },
+            {
+                "Median": 1.79
+            },
+            {
+                "High": 1.85
+            },
+            {
+                "Low": 1.75
+            },
+            {
+                "Standard Deviation": 0.0276
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.2587
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.0517241379310345
+            },
+            {
+                "YoY Growth": 0.09
+            }
+        ],
+        -0.00908059023836562
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-17"
+            },
+            {
+                "Surprise %": 1.055
+            },
+            {
+                "Actual": 1.9
+            },
+            {
+                "Mean": 1.8017
+            },
+            {
+                "SmartEstimate\u00ae": 1.80618
+            },
+            {
+                "Predicted Surprise": 0.00448
+            },
+            {
+                "Predicted Surprise %": 0.00248
+            },
+            {
+                "Median": 1.8
+            },
+            {
+                "High": 1.85
+            },
+            {
+                "Low": 1.75
+            },
+            {
+                "Standard Deviation": 0.02439
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.03034
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.130952380952381
+            },
+            {
+                "YoY Growth": 0.22
+            }
+        ],
+        0.0458419042021746
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-17"
+            },
+            {
+                "Surprise %": 1.01
+            },
+            {
+                "Actual": 1.74
+            },
+            {
+                "Mean": 1.72342
+            },
+            {
+                "SmartEstimate\u00ae": 1.72016
+            },
+            {
+                "Predicted Surprise": -0.00327
+            },
+            {
+                "Predicted Surprise %": -0.00189
+            },
+            {
+                "Median": 1.72
+            },
+            {
+                "High": 1.75
+            },
+            {
+                "Low": 1.69
+            },
+            {
+                "Standard Deviation": 0.01358
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.22091
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.10126582278481
+            },
+            {
+                "YoY Growth": 0.16
+            }
+        ],
+        -0.0671661941406777
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-17"
+            },
+            {
+                "Surprise %": 1.003
+            },
+            {
+                "Actual": 7.3
+            },
+            {
+                "Mean": 7.28126
+            },
+            {
+                "SmartEstimate\u00ae": 7.28041
+            },
+            {
+                "Predicted Surprise": -0.00085
+            },
+            {
+                "Predicted Surprise %": -0.00012
+            },
+            {
+                "Median": 7.28
+            },
+            {
+                "High": 7.31
+            },
+            {
+                "Low": 7.25
+            },
+            {
+                "Standard Deviation": 0.01338
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.4006
+            },
+            {
+                "Number of Estimates": 23
+            },
+            {
+                "YoY Growth %": 0.0846953937592867
+            },
+            {
+                "YoY Growth": 0.569999999999999
+            }
+        ],
+        -0.0671661941406777
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-18"
+            },
+            {
+                "Surprise %": 1.021
+            },
+            {
+                "Actual": 2.06
+            },
+            {
+                "Mean": 2.01829
+            },
+            {
+                "SmartEstimate\u00ae": 2.01844
+            },
+            {
+                "Predicted Surprise": 0.00015
+            },
+            {
+                "Predicted Surprise %": 7e-05
+            },
+            {
+                "Median": 2.015
+            },
+            {
+                "High": 2.19
+            },
+            {
+                "Low": 1.88
+            },
+            {
+                "Standard Deviation": 0.06037
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.69091
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.12568306010929
+            },
+            {
+                "YoY Growth": 0.23
+            }
+        ],
+        -0.0379477838494231
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-18"
+            },
+            {
+                "Surprise %": 1.014
+            },
+            {
+                "Actual": 2.1
+            },
+            {
+                "Mean": 2.07011
+            },
+            {
+                "SmartEstimate\u00ae": 2.07539
+            },
+            {
+                "Predicted Surprise": 0.00528
+            },
+            {
+                "Predicted Surprise %": 0.00255
+            },
+            {
+                "Median": 2.06
+            },
+            {
+                "High": 2.25
+            },
+            {
+                "Low": 2.03
+            },
+            {
+                "Standard Deviation": 0.04819
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.62025
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.147540983606557
+            },
+            {
+                "YoY Growth": 0.27
+            }
+        ],
+        0.0315181650493224
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-18"
+            },
+            {
+                "Surprise %": 1.011
+            },
+            {
+                "Actual": 2.05
+            },
+            {
+                "Mean": 2.02856
+            },
+            {
+                "SmartEstimate\u00ae": 2.0378
+            },
+            {
+                "Predicted Surprise": 0.00923
+            },
+            {
+                "Predicted Surprise %": 0.00455
+            },
+            {
+                "Median": 2.03
+            },
+            {
+                "High": 2.071
+            },
+            {
+                "Low": 1.97
+            },
+            {
+                "Standard Deviation": 0.02473
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.86696
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0789473684210526
+            },
+            {
+                "YoY Growth": 0.15
+            }
+        ],
+        0.0262784621127287
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-18"
+            },
+            {
+                "Surprise %": 1.009
+            },
+            {
+                "Actual": 1.97
+            },
+            {
+                "Mean": 1.95181
+            },
+            {
+                "SmartEstimate\u00ae": 1.94815
+            },
+            {
+                "Predicted Surprise": -0.00366
+            },
+            {
+                "Predicted Surprise %": -0.00188
+            },
+            {
+                "Median": 1.952
+            },
+            {
+                "High": 1.97
+            },
+            {
+                "Low": 1.925
+            },
+            {
+                "Standard Deviation": 0.01434
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.26848
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.132183908045977
+            },
+            {
+                "YoY Growth": 0.23
+            }
+        ],
+        0.00726911010788881
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-18"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 8.18
+            },
+            {
+                "Mean": 8.16453
+            },
+            {
+                "SmartEstimate\u00ae": 8.1644
+            },
+            {
+                "Predicted Surprise": -0.00013
+            },
+            {
+                "Predicted Surprise %": -2e-05
+            },
+            {
+                "Median": 8.167
+            },
+            {
+                "High": 8.18
+            },
+            {
+                "Low": 8.139
+            },
+            {
+                "Standard Deviation": 0.01433
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.07955
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.120547945205479
+            },
+            {
+                "YoY Growth": 0.88
+            }
+        ],
+        0.00726911010788881
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-19"
+            },
+            {
+                "Surprise %": 1.032
+            },
+            {
+                "Actual": 2.1
+            },
+            {
+                "Mean": 2.03481
+            },
+            {
+                "SmartEstimate\u00ae": 2.04615
+            },
+            {
+                "Predicted Surprise": 0.01134
+            },
+            {
+                "Predicted Surprise %": 0.00557
+            },
+            {
+                "Median": 2.04
+            },
+            {
+                "High": 2.166
+            },
+            {
+                "Low": 1.95
+            },
+            {
+                "Standard Deviation": 0.06661
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.97868
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0194174757281554
+            },
+            {
+                "YoY Growth": 0.04
+            }
+        ],
+        0.0229270436566071
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-19"
+            },
+            {
+                "Surprise %": 1.05
+            },
+            {
+                "Actual": 2.58
+            },
+            {
+                "Mean": 2.45659
+            },
+            {
+                "SmartEstimate\u00ae": 2.46522
+            },
+            {
+                "Predicted Surprise": 0.00863
+            },
+            {
+                "Predicted Surprise %": 0.00351
+            },
+            {
+                "Median": 2.43
+            },
+            {
+                "High": 2.66
+            },
+            {
+                "Low": 2.3
+            },
+            {
+                "Standard Deviation": 0.08191
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.50665
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.228571428571429
+            },
+            {
+                "YoY Growth": 0.48
+            }
+        ],
+        -0.0365971345854057
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-19"
+            },
+            {
+                "Surprise %": 1.055
+            },
+            {
+                "Actual": 2.12
+            },
+            {
+                "Mean": 2.00938
+            },
+            {
+                "SmartEstimate\u00ae": 2.01523
+            },
+            {
+                "Predicted Surprise": 0.00586
+            },
+            {
+                "Predicted Surprise %": 0.00292
+            },
+            {
+                "Median": 2.005
+            },
+            {
+                "High": 2.06
+            },
+            {
+                "Low": 1.97
+            },
+            {
+                "Standard Deviation": 0.02487
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.44793
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.0341463414634148
+            },
+            {
+                "YoY Growth": 0.07
+            }
+        ],
+        -0.00627294981640142
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-19"
+            },
+            {
+                "Surprise %": 1.006
+            },
+            {
+                "Actual": 1.88
+            },
+            {
+                "Mean": 1.8684
+            },
+            {
+                "SmartEstimate\u00ae": 1.863
+            },
+            {
+                "Predicted Surprise": -0.0054
+            },
+            {
+                "Predicted Surprise %": -0.00289
+            },
+            {
+                "Median": 1.86
+            },
+            {
+                "High": 1.94
+            },
+            {
+                "Low": 1.82
+            },
+            {
+                "Standard Deviation": 0.03035
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.38221
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": -0.0456852791878173
+            },
+            {
+                "YoY Growth": -0.09
+            }
+        ],
+        0.00730220405975751
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-19"
+            },
+            {
+                "Surprise %": 1.002
+            },
+            {
+                "Actual": 8.68
+            },
+            {
+                "Mean": 8.66632
+            },
+            {
+                "SmartEstimate\u00ae": 8.6685
+            },
+            {
+                "Predicted Surprise": 0.00219
+            },
+            {
+                "Predicted Surprise %": 0.00025
+            },
+            {
+                "Median": 8.65
+            },
+            {
+                "High": 8.75
+            },
+            {
+                "Low": 8.62
+            },
+            {
+                "Standard Deviation": 0.03064
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.44648
+            },
+            {
+                "Number of Estimates": 19
+            },
+            {
+                "YoY Growth %": 0.0611246943765281
+            },
+            {
+                "YoY Growth": 0.5
+            }
+        ],
+        0.00730220405975751
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-20"
+            },
+            {
+                "Surprise %": 1.153
+            },
+            {
+                "Actual": 2.3
+            },
+            {
+                "Mean": 1.99546
+            },
+            {
+                "SmartEstimate\u00ae": 2.04222
+            },
+            {
+                "Predicted Surprise": 0.04676
+            },
+            {
+                "Predicted Surprise %": 0.02343
+            },
+            {
+                "Median": 1.99
+            },
+            {
+                "High": 2.19
+            },
+            {
+                "Low": 1.75
+            },
+            {
+                "Standard Deviation": 0.10568
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.88172
+            },
+            {
+                "Number of Estimates": 13
+            },
+            {
+                "YoY Growth %": 0.0952380952380951
+            },
+            {
+                "YoY Growth": 0.2
+            }
+        ],
+        0.0945839593618087
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-20"
+            },
+            {
+                "Surprise %": 1.117
+            },
+            {
+                "Actual": 1.67
+            },
+            {
+                "Mean": 1.49481
+            },
+            {
+                "SmartEstimate\u00ae": 1.52079
+            },
+            {
+                "Predicted Surprise": 0.02598
+            },
+            {
+                "Predicted Surprise %": 0.01738
+            },
+            {
+                "Median": 1.5
+            },
+            {
+                "High": 1.69
+            },
+            {
+                "Low": 1.33
+            },
+            {
+                "Standard Deviation": 0.09157
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.91318
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": -0.352713178294574
+            },
+            {
+                "YoY Growth": -0.91
+            }
+        ],
+        -0.00094428706326714
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-20"
+            },
+            {
+                "Surprise %": 1.113
+            },
+            {
+                "Actual": 2.2
+            },
+            {
+                "Mean": 1.97693
+            },
+            {
+                "SmartEstimate\u00ae": 2.00225
+            },
+            {
+                "Predicted Surprise": 0.02532
+            },
+            {
+                "Predicted Surprise %": 0.01281
+            },
+            {
+                "Median": 1.981
+            },
+            {
+                "High": 2.13
+            },
+            {
+                "Low": 1.79
+            },
+            {
+                "Standard Deviation": 0.09187
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.42811
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.0377358490566038
+            },
+            {
+                "YoY Growth": 0.08
+            }
+        ],
+        -0.0520943097997892
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-20"
+            },
+            {
+                "Surprise %": 1.021
+            },
+            {
+                "Actual": 1.86
+            },
+            {
+                "Mean": 1.82093
+            },
+            {
+                "SmartEstimate\u00ae": 1.81108
+            },
+            {
+                "Predicted Surprise": -0.00986
+            },
+            {
+                "Predicted Surprise %": -0.00541
+            },
+            {
+                "Median": 1.828
+            },
+            {
+                "High": 1.89
+            },
+            {
+                "Low": 1.76
+            },
+            {
+                "Standard Deviation": 0.03086
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.26604
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": -0.0106382978723403
+            },
+            {
+                "YoY Growth": -0.02
+            }
+        ],
+        -0.0330160260272321
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-20"
+            },
+            {
+                "Surprise %": 1.004
+            },
+            {
+                "Actual": 8.03
+            },
+            {
+                "Mean": 7.99978
+            },
+            {
+                "SmartEstimate\u00ae": 7.98821
+            },
+            {
+                "Predicted Surprise": -0.01157
+            },
+            {
+                "Predicted Surprise %": -0.00145
+            },
+            {
+                "Median": 8
+            },
+            {
+                "High": 8.06
+            },
+            {
+                "Low": 7.93
+            },
+            {
+                "Standard Deviation": 0.03384
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.89303
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": -0.0748847926267281
+            },
+            {
+                "YoY Growth": -0.65
+            }
+        ],
+        -0.0330160260272321
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-21"
+            },
+            {
+                "Surprise %": 1.108
+            },
+            {
+                "Actual": 2.59
+            },
+            {
+                "Mean": 2.33707
+            },
+            {
+                "SmartEstimate\u00ae": 2.34925
+            },
+            {
+                "Predicted Surprise": 0.01218
+            },
+            {
+                "Predicted Surprise %": 0.00521
+            },
+            {
+                "Median": 2.33
+            },
+            {
+                "High": 2.59
+            },
+            {
+                "Low": 2.2
+            },
+            {
+                "Standard Deviation": 0.08722
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.89991
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.126086956521739
+            },
+            {
+                "YoY Growth": 0.29
+            }
+        ],
+        -0.00436412809637967
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-21"
+            },
+            {
+                "Surprise %": 1.094
+            },
+            {
+                "Actual": 2.48
+            },
+            {
+                "Mean": 2.26642
+            },
+            {
+                "SmartEstimate\u00ae": 2.27056
+            },
+            {
+                "Predicted Surprise": 0.00414
+            },
+            {
+                "Predicted Surprise %": 0.00183
+            },
+            {
+                "Median": 2.285
+            },
+            {
+                "High": 2.43
+            },
+            {
+                "Low": 2.167
+            },
+            {
+                "Standard Deviation": 0.07015
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.04462
+            },
+            {
+                "Number of Estimates": 12
+            },
+            {
+                "YoY Growth %": 0.48502994011976
+            },
+            {
+                "YoY Growth": 0.81
+            }
+        ],
+        0.0221430691599882
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-21"
+            },
+            {
+                "Surprise %": 1.106
+            },
+            {
+                "Actual": 2.6
+            },
+            {
+                "Mean": 2.35136
+            },
+            {
+                "SmartEstimate\u00ae": 2.36791
+            },
+            {
+                "Predicted Surprise": 0.01656
+            },
+            {
+                "Predicted Surprise %": 0.00704
+            },
+            {
+                "Median": 2.37
+            },
+            {
+                "High": 2.52
+            },
+            {
+                "Low": 2.23
+            },
+            {
+                "Standard Deviation": 0.07191
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.45766
+            },
+            {
+                "Number of Estimates": 14
+            },
+            {
+                "YoY Growth %": 0.181818181818182
+            },
+            {
+                "YoY Growth": 0.4
+            }
+        ],
+        0.0226080439670248
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-21"
+            },
+            {
+                "Surprise %": 1.006
+            },
+            {
+                "Actual": 2.13
+            },
+            {
+                "Mean": 2.11729
+            },
+            {
+                "SmartEstimate\u00ae": 2.12209
+            },
+            {
+                "Predicted Surprise": 0.0048
+            },
+            {
+                "Predicted Surprise %": 0.00227
+            },
+            {
+                "Median": 2.1215
+            },
+            {
+                "High": 2.15
+            },
+            {
+                "Low": 2.01
+            },
+            {
+                "Standard Deviation": 0.03172
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.40069
+            },
+            {
+                "Number of Estimates": 14
+            },
+            {
+                "YoY Growth %": 0.145161290322581
+            },
+            {
+                "YoY Growth": 0.27
+            }
+        ],
+        0.0601337669509726
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-21"
+            },
+            {
+                "Surprise %": 1.0
+            },
+            {
+                "Actual": 9.8
+            },
+            {
+                "Mean": 9.79528
+            },
+            {
+                "SmartEstimate\u00ae": 9.79872
+            },
+            {
+                "Predicted Surprise": 0.00344
+            },
+            {
+                "Predicted Surprise %": 0.00035
+            },
+            {
+                "Median": 9.8
+            },
+            {
+                "High": 9.82
+            },
+            {
+                "Low": 9.69
+            },
+            {
+                "Standard Deviation": 0.02709
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.17423
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": 0.220423412204234
+            },
+            {
+                "YoY Growth": 1.77
+            }
+        ],
+        0.0601337669509726
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-22"
+            },
+            {
+                "Surprise %": 1.041
+            },
+            {
+                "Actual": 2.67
+            },
+            {
+                "Mean": 2.56413
+            },
+            {
+                "SmartEstimate\u00ae": 2.51717
+            },
+            {
+                "Predicted Surprise": -0.04696
+            },
+            {
+                "Predicted Surprise %": -0.01831
+            },
+            {
+                "Median": 2.59
+            },
+            {
+                "High": 2.77
+            },
+            {
+                "Low": 2.16
+            },
+            {
+                "Standard Deviation": 0.13976
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.75751
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.0308880308880309
+            },
+            {
+                "YoY Growth": 0.08
+            }
+        ],
+        0.0249915569064505
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-22"
+            },
+            {
+                "Surprise %": 1.022
+            },
+            {
+                "Actual": 2.59
+            },
+            {
+                "Mean": 2.53543
+            },
+            {
+                "SmartEstimate\u00ae": 2.52328
+            },
+            {
+                "Predicted Surprise": -0.01215
+            },
+            {
+                "Predicted Surprise %": -0.00479
+            },
+            {
+                "Median": 2.525
+            },
+            {
+                "High": 2.696
+            },
+            {
+                "Low": 2.41
+            },
+            {
+                "Standard Deviation": 0.07184
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.75961
+            },
+            {
+                "Number of Estimates": 14
+            },
+            {
+                "YoY Growth %": 0.0443548387096774
+            },
+            {
+                "YoY Growth": 0.11
+            }
+        ],
+        -0.00591172587958446
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-22"
+            },
+            {
+                "Surprise %": 1.032
+            },
+            {
+                "Actual": 2.55
+            },
+            {
+                "Mean": 2.47193
+            },
+            {
+                "SmartEstimate\u00ae": 2.48887
+            },
+            {
+                "Predicted Surprise": 0.01694
+            },
+            {
+                "Predicted Surprise %": 0.00685
+            },
+            {
+                "Median": 2.489
+            },
+            {
+                "High": 2.64
+            },
+            {
+                "Low": 2.21
+            },
+            {
+                "Standard Deviation": 0.09778
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.79843
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": -0.0192307692307693
+            },
+            {
+                "YoY Growth": -0.05
+            }
+        ],
+        0.0337355183384357
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-22"
+            },
+            {
+                "Surprise %": 1.054
+            },
+            {
+                "Actual": 2.35
+            },
+            {
+                "Mean": 2.22947
+            },
+            {
+                "SmartEstimate\u00ae": 2.22964
+            },
+            {
+                "Predicted Surprise": 0.00017
+            },
+            {
+                "Predicted Surprise %": 8e-05
+            },
+            {
+                "Median": 2.23
+            },
+            {
+                "High": 2.26
+            },
+            {
+                "Low": 2.19
+            },
+            {
+                "Standard Deviation": 0.01669
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 7.22169
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.103286384976526
+            },
+            {
+                "YoY Growth": 0.22
+            }
+        ],
+        -0.0201414057394095
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-22"
+            },
+            {
+                "Surprise %": 1.01
+            },
+            {
+                "Actual": 10.15
+            },
+            {
+                "Mean": 10.0456
+            },
+            {
+                "SmartEstimate\u00ae": 10.04277
+            },
+            {
+                "Predicted Surprise": -0.00283
+            },
+            {
+                "Predicted Surprise %": -0.00028
+            },
+            {
+                "Median": 10.045
+            },
+            {
+                "High": 10.1
+            },
+            {
+                "Low": 10
+            },
+            {
+                "Standard Deviation": 0.0214
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.87851
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 0.0357142857142857
+            },
+            {
+                "YoY Growth": 0.35
+            }
+        ],
+        -0.0201414057394095
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q1 Mar-23"
+            },
+            {
+                "Surprise %": 1.07
+            },
+            {
+                "Actual": 2.68
+            },
+            {
+                "Mean": 2.50444
+            },
+            {
+                "SmartEstimate\u00ae": 2.50999
+            },
+            {
+                "Predicted Surprise": 0.00555
+            },
+            {
+                "Predicted Surprise %": 0.00222
+            },
+            {
+                "Median": 2.52
+            },
+            {
+                "High": 2.59
+            },
+            {
+                "Low": 2.34
+            },
+            {
+                "Standard Deviation": 0.05114
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.43293
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.00374531835206001
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        -0.0184100923522664
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q2 Jun-23"
+            },
+            {
+                "Surprise %": 1.07
+            },
+            {
+                "Actual": 2.8
+            },
+            {
+                "Mean": 2.61624
+            },
+            {
+                "SmartEstimate\u00ae": 2.6124
+            },
+            {
+                "Predicted Surprise": -0.00384
+            },
+            {
+                "Predicted Surprise %": -0.00147
+            },
+            {
+                "Median": 2.61
+            },
+            {
+                "High": 2.69
+            },
+            {
+                "Low": 2.54
+            },
+            {
+                "Standard Deviation": 0.03804
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 4.83071
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": 0.0810810810810811
+            },
+            {
+                "YoY Growth": 0.21
+            }
+        ],
+        0.099155852337155
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q3 Sep-23"
+            },
+            {
+                "Surprise %": 1.057
+            },
+            {
+                "Actual": 2.66
+            },
+            {
+                "Mean": 2.5158
+            },
+            {
+                "SmartEstimate\u00ae": 2.52006
+            },
+            {
+                "Predicted Surprise": 0.00426
+            },
+            {
+                "Predicted Surprise %": 0.00169
+            },
+            {
+                "Median": 2.51
+            },
+            {
+                "High": 2.58
+            },
+            {
+                "Low": 2.4
+            },
+            {
+                "Standard Deviation": 0.04075
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.53865
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": 0.0431372549019609
+            },
+            {
+                "YoY Growth": 0.11
+            }
+        ],
+        -0.0378340633530122
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "Q4 Dec-23"
+            },
+            {
+                "Surprise %": 1.004
+            },
+            {
+                "Actual": 2.29
+            },
+            {
+                "Mean": 2.2808
+            },
+            {
+                "SmartEstimate\u00ae": 2.28228
+            },
+            {
+                "Predicted Surprise": 0.00148
+            },
+            {
+                "Predicted Surprise %": 0.00065
+            },
+            {
+                "Median": 2.28
+            },
+            {
+                "High": 2.31
+            },
+            {
+                "Low": 2.25
+            },
+            {
+                "Standard Deviation": 0.01907
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.48243
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": -0.025531914893617
+            },
+            {
+                "YoY Growth": -0.06
+            }
+        ],
+        -0.0219732873761309
+    ],
+    [
+        [
+            "JNJ",
+            {
+                "Quarter": "FY Dec-23"
+            },
+            {
+                "Surprise %": 1.0
+            },
+            {
+                "Actual": 9.92
+            },
+            {
+                "Mean": 9.91861
+            },
+            {
+                "SmartEstimate\u00ae": 9.92185
+            },
+            {
+                "Predicted Surprise": 0.00324
+            },
+            {
+                "Predicted Surprise %": 0.00033
+            },
+            {
+                "Median": 9.92
+            },
+            {
+                "High": 9.953
+            },
+            {
+                "Low": 9.88
+            },
+            {
+                "Standard Deviation": 0.01918
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.07247
+            },
+            {
+                "Number of Estimates": 18
+            },
+            {
+                "YoY Growth %": -0.0226600985221675
+            },
+            {
+                "YoY Growth": -0.23
+            }
+        ],
+        -0.0219732873761309
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q1 Mar-09"
+            },
+            {
+                "Surprise %": 1.243
+            },
+            {
+                "Actual": 0.4
+            },
+            {
+                "Mean": 0.32177
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.35
+            },
+            {
+                "High": 0.45
+            },
+            {
+                "Low": 0.11
+            },
+            {
+                "Standard Deviation": 0.10095
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.77494
+            },
+            {
+                "Number of Estimates": 17
+            },
+            {
+                "YoY Growth %": -0.411764705882353
+            },
+            {
+                "YoY Growth": -0.28
+            }
+        ],
+        "16-Apr-09"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q2 Jun-09"
+            },
+            {
+                "Surprise %": 6.885
+            },
+            {
+                "Actual": 0.28
+            },
+            {
+                "Mean": 0.04067
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.05
+            },
+            {
+                "High": 0.27
+            },
+            {
+                "Low": -0.23
+            },
+            {
+                "Standard Deviation": 0.1081
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.21397
+            },
+            {
+                "Number of Estimates": 15
+            },
+            {
+                "YoY Growth %": -0.481481481481481
+            },
+            {
+                "YoY Growth": -0.26
+            }
+        ],
+        "16-Jul-09"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q3 Sep-09"
+            },
+            {
+                "Surprise %": 1.581
+            },
+            {
+                "Actual": 0.82
+            },
+            {
+                "Mean": 0.5185
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.53
+            },
+            {
+                "High": 0.65
+            },
+            {
+                "Low": 0.41
+            },
+            {
+                "Standard Deviation": 0.05927
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 5.08689
+            },
+            {
+                "Number of Estimates": 20
+            },
+            {
+                "YoY Growth %": 6.45454545454545
+            },
+            {
+                "YoY Growth": 0.71
+            }
+        ],
+        "14-Oct-09"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q4 Dec-09"
+            },
+            {
+                "Surprise %": 1.223
+            },
+            {
+                "Actual": 0.74
+            },
+            {
+                "Mean": 0.605
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.6
+            },
+            {
+                "High": 0.78
+            },
+            {
+                "Low": 0.45
+            },
+            {
+                "Standard Deviation": 0.07844
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.72106
+            },
+            {
+                "Number of Estimates": 22
+            },
+            {
+                "YoY Growth %": 9.57142857142857
+            },
+            {
+                "YoY Growth": 0.67
+            }
+        ],
+        "15-Jan-10"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "FY Dec-09"
+            },
+            {
+                "Surprise %": 1.057
+            },
+            {
+                "Actual": 2.24
+            },
+            {
+                "Mean": 2.11952
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 2.11
+            },
+            {
+                "High": 2.39
+            },
+            {
+                "Low": 1.95
+            },
+            {
+                "Standard Deviation": 0.10031
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.20108
+            },
+            {
+                "Number of Estimates": 21
+            },
+            {
+                "YoY Growth %": 0.635036496350365
+            },
+            {
+                "YoY Growth": 0.87
+            }
+        ],
+        "15-Jan-10"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q1 Mar-10"
+            },
+            {
+                "Surprise %": 1.164
+            },
+            {
+                "Actual": 0.74
+            },
+            {
+                "Mean": 0.63591
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.615
+            },
+            {
+                "High": 0.74
+            },
+            {
+                "Low": 0.45
+            },
+            {
+                "Standard Deviation": 0.06257
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.66358
+            },
+            {
+                "Number of Estimates": 22
+            },
+            {
+                "YoY Growth %": 0.85
+            },
+            {
+                "YoY Growth": 0.34
+            }
+        ],
+        "14-Apr-10"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q2 Jun-10"
+            },
+            {
+                "Surprise %": 1.084
+            },
+            {
+                "Actual": 0.73
+            },
+            {
+                "Mean": 0.67333
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.66
+            },
+            {
+                "High": 0.78
+            },
+            {
+                "Low": 0.59
+            },
+            {
+                "Standard Deviation": 0.05626
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.00729
+            },
+            {
+                "Number of Estimates": 21
+            },
+            {
+                "YoY Growth %": 1.60714285714286
+            },
+            {
+                "YoY Growth": 0.45
+            }
+        ],
+        "15-Jul-10"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q3 Sep-10"
+            },
+            {
+                "Surprise %": 1.123
+            },
+            {
+                "Actual": 1.01
+            },
+            {
+                "Mean": 0.89917
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.905
+            },
+            {
+                "High": 1.12
+            },
+            {
+                "Low": 0.7
+            },
+            {
+                "Standard Deviation": 0.10041
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.10378
+            },
+            {
+                "Number of Estimates": 24
+            },
+            {
+                "YoY Growth %": 0.231707317073171
+            },
+            {
+                "YoY Growth": 0.19
+            }
+        ],
+        "13-Oct-10"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q4 Dec-10"
+            },
+            {
+                "Surprise %": 1.122
+            },
+            {
+                "Actual": 1.12
+            },
+            {
+                "Mean": 0.99808
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.01
+            },
+            {
+                "High": 1.09
+            },
+            {
+                "Low": 0.85
+            },
+            {
+                "Standard Deviation": 0.06397
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.90589
+            },
+            {
+                "Number of Estimates": 26
+            },
+            {
+                "YoY Growth %": 0.513513513513514
+            },
+            {
+                "YoY Growth": 0.38
+            }
+        ],
+        "14-Jan-11"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "FY Dec-10"
+            },
+            {
+                "Surprise %": 1.029
+            },
+            {
+                "Actual": 3.96
+            },
+            {
+                "Mean": 3.84885
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 3.855
+            },
+            {
+                "High": 3.94
+            },
+            {
+                "Low": 3.7
+            },
+            {
+                "Standard Deviation": 0.06266
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.77386
+            },
+            {
+                "Number of Estimates": 26
+            },
+            {
+                "YoY Growth %": 0.767857142857142
+            },
+            {
+                "YoY Growth": 1.72
+            }
+        ],
+        "14-Jan-11"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q1 Mar-11"
+            },
+            {
+                "Surprise %": 1.107
+            },
+            {
+                "Actual": 1.28
+            },
+            {
+                "Mean": 1.15614
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.155
+            },
+            {
+                "High": 1.33
+            },
+            {
+                "Low": 0.93
+            },
+            {
+                "Standard Deviation": 0.0885
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.39955
+            },
+            {
+                "Number of Estimates": 22
+            },
+            {
+                "YoY Growth %": 0.72972972972973
+            },
+            {
+                "YoY Growth": 0.54
+            }
+        ],
+        "13-Apr-11"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q2 Jun-11"
+            },
+            {
+                "Surprise %": 1.049
+            },
+            {
+                "Actual": 1.27
+            },
+            {
+                "Mean": 1.21065
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.21
+            },
+            {
+                "High": 1.36
+            },
+            {
+                "Low": 1.09
+            },
+            {
+                "Standard Deviation": 0.0664
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.89383
+            },
+            {
+                "Number of Estimates": 26
+            },
+            {
+                "YoY Growth %": 0.73972602739726
+            },
+            {
+                "YoY Growth": 0.54
+            }
+        ],
+        "14-Jul-11"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q3 Sep-11"
+            },
+            {
+                "Surprise %": 1.124
+            },
+            {
+                "Actual": 1.02
+            },
+            {
+                "Mean": 0.90737
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.9
+            },
+            {
+                "High": 1.04
+            },
+            {
+                "Low": 0.75
+            },
+            {
+                "Standard Deviation": 0.08022
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.40401
+            },
+            {
+                "Number of Estimates": 27
+            },
+            {
+                "YoY Growth %": 0.00990099009900991
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        "13-Oct-11"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q4 Dec-11"
+            },
+            {
+                "Surprise %": 0.998
+            },
+            {
+                "Actual": 0.9
+            },
+            {
+                "Mean": 0.90157
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.9
+            },
+            {
+                "High": 1
+            },
+            {
+                "Low": 0.76
+            },
+            {
+                "Standard Deviation": 0.05802
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": -0.02706
+            },
+            {
+                "Number of Estimates": 28
+            },
+            {
+                "YoY Growth %": -0.196428571428571
+            },
+            {
+                "YoY Growth": -0.22
+            }
+        ],
+        "13-Jan-12"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "FY Dec-11"
+            },
+            {
+                "Surprise %": 0.996
+            },
+            {
+                "Actual": 4.48
+            },
+            {
+                "Mean": 4.49607
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.495
+            },
+            {
+                "High": 4.63
+            },
+            {
+                "Low": 4.34
+            },
+            {
+                "Standard Deviation": 0.06338
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": -0.25355
+            },
+            {
+                "Number of Estimates": 28
+            },
+            {
+                "YoY Growth %": 0.131313131313131
+            },
+            {
+                "YoY Growth": 0.52
+            }
+        ],
+        "13-Jan-12"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q1 Mar-12"
+            },
+            {
+                "Surprise %": 1.078
+            },
+            {
+                "Actual": 1.28
+            },
+            {
+                "Mean": 1.18775
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.19
+            },
+            {
+                "High": 1.32
+            },
+            {
+                "Low": 1.07
+            },
+            {
+                "Standard Deviation": 0.06127
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.50563
+            },
+            {
+                "Number of Estimates": 28
+            },
+            {
+                "YoY Growth %": 0
+            },
+            {
+                "YoY Growth": 0
+            }
+        ],
+        "13-Apr-12"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q2 Jun-12"
+            },
+            {
+                "Surprise %": 1.542
+            },
+            {
+                "Actual": 1.09
+            },
+            {
+                "Mean": 0.70665
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 0.73
+            },
+            {
+                "High": 1.08
+            },
+            {
+                "Low": 0.19
+            },
+            {
+                "Standard Deviation": 0.19539
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.96197
+            },
+            {
+                "Number of Estimates": 23
+            },
+            {
+                "YoY Growth %": -0.141732283464567
+            },
+            {
+                "YoY Growth": -0.18
+            }
+        ],
+        "13-Jul-12"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q3 Sep-12"
+            },
+            {
+                "Surprise %": 1.223
+            },
+            {
+                "Actual": 1.51
+            },
+            {
+                "Mean": 1.235
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.245
+            },
+            {
+                "High": 1.41
+            },
+            {
+                "Low": 1.02
+            },
+            {
+                "Standard Deviation": 0.10255
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.68162
+            },
+            {
+                "Number of Estimates": 24
+            },
+            {
+                "YoY Growth %": 0.480392156862745
+            },
+            {
+                "YoY Growth": 0.49
+            }
+        ],
+        "12-Oct-12"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q4 Dec-12"
+            },
+            {
+                "Surprise %": 1.198
+            },
+            {
+                "Actual": 1.39
+            },
+            {
+                "Mean": 1.16038
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.1695
+            },
+            {
+                "High": 1.29
+            },
+            {
+                "Low": 0.98
+            },
+            {
+                "Standard Deviation": 0.08111
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.83097
+            },
+            {
+                "Number of Estimates": 24
+            },
+            {
+                "YoY Growth %": 0.544444444444444
+            },
+            {
+                "YoY Growth": 0.49
+            }
+        ],
+        "16-Jan-13"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "FY Dec-12"
+            },
+            {
+                "Surprise %": 1.047
+            },
+            {
+                "Actual": 5.2
+            },
+            {
+                "Mean": 4.96636
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.99
+            },
+            {
+                "High": 5.23
+            },
+            {
+                "Low": 4.51
+            },
+            {
+                "Standard Deviation": 0.1444
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.61801
+            },
+            {
+                "Number of Estimates": 22
+            },
+            {
+                "YoY Growth %": 0.160714285714286
+            },
+            {
+                "YoY Growth": 0.72
+            }
+        ],
+        "16-Jan-13"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q1 Mar-13"
+            },
+            {
+                "Surprise %": 1.146
+            },
+            {
+                "Actual": 1.59
+            },
+            {
+                "Mean": 1.38769
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.39
+            },
+            {
+                "High": 1.52
+            },
+            {
+                "Low": 1.15
+            },
+            {
+                "Standard Deviation": 0.06777
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 2.98524
+            },
+            {
+                "Number of Estimates": 29
+            },
+            {
+                "YoY Growth %": 0.2421875
+            },
+            {
+                "YoY Growth": 0.31
+            }
+        ],
+        "12-Apr-13"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q2 Jun-13"
+            },
+            {
+                "Surprise %": 1.113
+            },
+            {
+                "Actual": 1.6
+            },
+            {
+                "Mean": 1.43789
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.45
+            },
+            {
+                "High": 1.52
+            },
+            {
+                "Low": 1.35
+            },
+            {
+                "Standard Deviation": 0.04323
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 3.74994
+            },
+            {
+                "Number of Estimates": 28
+            },
+            {
+                "YoY Growth %": 0.467889908256881
+            },
+            {
+                "YoY Growth": 0.51
+            }
+        ],
+        "12-Jul-13"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q3 Sep-13"
+            },
+            {
+                "Surprise %": 1.209
+            },
+            {
+                "Actual": 1.42
+            },
+            {
+                "Mean": 1.17478
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.2
+            },
+            {
+                "High": 1.46
+            },
+            {
+                "Low": 0.7
+            },
+            {
+                "Standard Deviation": 0.16641
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.47359
+            },
+            {
+                "Number of Estimates": 27
+            },
+            {
+                "YoY Growth %": -0.0596026490066226
+            },
+            {
+                "YoY Growth": -0.09
+            }
+        ],
+        "11-Oct-13"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "Q4 Dec-13"
+            },
+            {
+                "Surprise %": 1.038
+            },
+            {
+                "Actual": 1.4
+            },
+            {
+                "Mean": 1.34869
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 1.3405
+            },
+            {
+                "High": 1.45
+            },
+            {
+                "Low": 1.25
+            },
+            {
+                "Standard Deviation": 0.05002
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 1.02579
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": 0.00719424460431655
+            },
+            {
+                "YoY Growth": 0.01
+            }
+        ],
+        "14-Jan-14"
+    ],
+    [
+        [
+            "JPM",
+            {
+                "Quarter": "FY Dec-13"
+            },
+            {
+                "Surprise %": 1.014
+            },
+            {
+                "Actual": 4.45
+            },
+            {
+                "Mean": 4.38813
+            },
+            {
+                "SmartEstimate\u00ae": 0
+            },
+            {
+                "Predicted Surprise": 0
+            },
+            {
+                "Predicted Surprise %": 0
+            },
+            {
+                "Median": 4.375
+            },
+            {
+                "High": 4.669
+            },
+            {
+                "Low": 4.25
+            },
+            {
+                "Standard Deviation": 0.09077
+            },
+            {
+                "Standardized Unexpected Earnings (SUE)": 0.68161
+            },
+            {
+                "Number of Estimates": 16
+            },
+            {
+                "YoY Growth %": -0.144230769230769
+            },
+            {
+                "YoY Growth": -0.75
+            }
+        ],
+        "14-Jan-14"
+    ]
+]
